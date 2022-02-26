@@ -9,7 +9,7 @@ infrastructure stacks in an automated way.
 - Python
 
 <b>Interests:</b>
-- Cloud Native Design
+- Cloud Native Architecture
 - Immutable infrastructure
 - Containers
 - Serverless
