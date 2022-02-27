@@ -13,7 +13,7 @@ of application and infrastructure delivery pipelines.
 - Java
 - Ruby
 
-<b>Frameworks:</>
+<b>Frameworks:</b>
 SpringBoot
 
 <b>Interests:</b>
