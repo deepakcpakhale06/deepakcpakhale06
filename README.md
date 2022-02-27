@@ -9,8 +9,12 @@ of application and infrastructure delivery pipelines.
 - https://dev.to/deepakp
 
 <b>Programming Languages:</b> 
-- Java
 - Python
+- Java
+- Ruby
+
+<b>Frameworks:</>
+SpringBoot
 
 <b>Interests:</b>
 - Cloud Native Architecture
@@ -19,6 +23,7 @@ of application and infrastructure delivery pipelines.
 - K8S
 - Serverless
 - Security
+- Databases
 
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=deepakcpakhale06) 
