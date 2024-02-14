@@ -9,9 +9,8 @@ of application and infrastructure delivery pipelines.
 - https://dev.to/deepakp
 
 <b>Programming Languages:</b> 
-- Python
 - Java
-- Ruby
+
 
 <b>Frameworks:</b>
 SpringBoot
