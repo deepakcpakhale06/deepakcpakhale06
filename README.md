@@ -9,11 +9,8 @@ of application and infrastructure delivery pipelines.
 - https://dev.to/deepakp
 
 <b>Programming Languages:</b> 
+- Go
 - Java
-
-
-<b>Frameworks:</b>
-SpringBoot
 
 <b>Interests:</b>
 - Cloud Native Architecture
